@@ -1,4 +1,4 @@
-# STAT545 Homework 8
+# STAT547 Homework 8
 ## William Hall
 
 This is a repository for William Hall's STAT545 hw # 8 #. The URL describing the Homework 8 assignment can be found here:
